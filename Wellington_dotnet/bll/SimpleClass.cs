@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace bll{
+namespace  bll{
+    
     public class SimpleClass{
         public bool isPar(int n){
             if(n%2==0)

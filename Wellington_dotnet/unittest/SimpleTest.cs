@@ -4,7 +4,7 @@ using Xunit;
 
 namespace unittest
 {
-    public class SimpleTest
+    public class  SimpleTest
     {   private readonly SimpleClass s;
         public SimpleTest(){
             this.s  = new SimpleClass();
